@@ -1,4 +1,4 @@
-package guru.springframework.sfgpetclinic.model;
+package guru.springwork.sfgpetclinic.model;
 
 /**
  * @Project sfg-pet-clinic
