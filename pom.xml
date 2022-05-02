@@ -36,6 +36,7 @@
     </dependencies>
 
     <build>
+        <pluginManagement/>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -60,7 +61,7 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:https://github.com/LloyDee/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>git@github.com:LloyDee/sfg-pet-clinic.git</developerConnection>
         <url>https://github.com/LloyDee/sfg-pet-clinic.git</url>
     </scm>
 </project>

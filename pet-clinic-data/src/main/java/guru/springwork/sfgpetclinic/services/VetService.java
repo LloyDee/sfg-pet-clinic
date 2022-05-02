@@ -10,6 +10,8 @@ import java.util.Set;
  * @Created by loyd_ on 4/29/2022
  **/
 public interface VetService {
+    Vet findByName(String name);
+    Vet findBySpecialty(String specialty);
     Vet findById(Long id);
     Vet save(Vet vet);
     Set<Vet> findAll();
